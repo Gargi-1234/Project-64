@@ -5,7 +5,7 @@ export default class MoreEx extends Component{
 render(){
     return(
         <View>
-            <Text style={styles.styles} > India </Text>
+            <Text style={styles.textStyle} > India </Text>
         </View>
     )
 }
